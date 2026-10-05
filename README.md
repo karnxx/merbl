@@ -5,4 +5,6 @@ This guide covers the CAD-ing process for the marble race.
 Parts- \
 i. Base \
 ii. Tracks \
-iii. aasd
+iii. Miscs \ 
+iv. Finishing Touches
+v. More!
