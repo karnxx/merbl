@@ -1,4 +1,8 @@
 # merbl
+
+<img width="684" height="744" alt="image" src="https://github.com/user-attachments/assets/d3239a8e-6b6e-4a39-b35c-60f66c4f04ad" />
+
+
 Hii!!!! This is a guide on how to make your own 3D-Printed Marble Race!!!
 This guide covers the CAD-ing process for the marble race.
 
