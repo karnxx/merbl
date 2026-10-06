@@ -6,15 +6,15 @@ You will learn how to CAD a marble race from scratch on Onshape.
 
 ### What is Onshape?
 -   Onshape is a cloud-based CAD-ing software that runs completely on browser. So it is very versatile and beginner friendly.
+-   To use onshape, just go to [this](cad.onshape.com) link and sign up for onshape. 
 
-etcetc tbd
-
-Parts- \
+## Parts- \
 i. Base \
 ii. Tracks \
 iii. Miscs \
 iv. Finishing Touches \
 v. More! \
 
-## Onshape
-To use onshape, just go to [this](cad.onshape.com) link and sign up for onshape. 
+#### Before we start
+The flow of a marble race is basically: \
+**Plan → Sketch Path → Sweep The Path With Track Profile → Reinforce The Tracks → Add Supports → Text → Repeat**
