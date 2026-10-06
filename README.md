@@ -30,3 +30,27 @@ You'll start by thinking how you want the marble to move and then actually turn 
 - **Sweep** : this actually makes the track, by extending a 2d sketch shape along a 3d path
 - **Transform** : moves, rotates and scales the parts
 - **Extrude** : just extends the specific 2d shape in a straight perpendicular line
+
+alralr so lets actually get started
+
+# 0. SETUP
+if you haven't already, signup for onshape. after that, make a new document by clicking on the create → new document. name it anything you want
+
+<img width="290" height="436" alt="image" src="https://github.com/user-attachments/assets/cc6a0ada-bf60-4530-b7d3-3e63c7855223" />
+
+<img width="639" height="573" alt="image" src="https://github.com/user-attachments/assets/f220b6f7-bd3f-4f77-9118-7709c708daf2" />
+
+this should be your screen:
+
+<img width="1718" height="1028" alt="image" src="https://github.com/user-attachments/assets/d127d524-649f-47c8-9b28-dfafa6025b33" />
+
+
+# I.TRACKS
+tracks are made by first, having a path and then having a profile perpendicular to the start of the path.
+
+first make a sketch:
+
+<img width="336" height="143" alt="image" src="https://github.com/user-attachments/assets/4ede3e70-b0ef-49aa-a997-af48ff2b1930" />
+
+and place it on a plane
+
