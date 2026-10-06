@@ -8,6 +8,6 @@ You will learn how to CAD a marble race from scratch on Onshape.
 Parts- \
 i. Base \
 ii. Tracks \
-iii. Miscs \ 
-iv. Finishing Touches
-v. More!
+iii. Miscs \
+iv. Finishing Touches \
+v. More! \
