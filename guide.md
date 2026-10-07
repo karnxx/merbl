@@ -45,6 +45,8 @@ this should be your screen:
 
 <img width="1718" height="1028" alt="image" src="https://github.com/user-attachments/assets/d127d524-649f-47c8-9b28-dfafa6025b33" />
 
+you have probably selected which type of movement you have, a list of those [here](https://cad.onshape.com/help/Content/View/view_navigation_and_the_view_cube.htm)
+
 
 # I.TRACKS
 
@@ -72,8 +74,16 @@ all together:
 
 https://github.com/user-attachments/assets/daba3795-5428-42c3-92bc-7ec49f04fc53
 
+> also you can hide the planes and all from the left hand sided features panel:
+> 
+> <img width="470" height="958" alt="image" src="https://github.com/user-attachments/assets/579ace92-77ed-4079-9c1d-5943323e268f" />
+
 then for the sweep profile, we have to first make a plane:
 
 > ### MAKING PLANES:
-
 > planes are a very important part of this tutorial, you have to use them as where the sketch is actually drawn. there are multiple ways of making a plane, [this](https://cad.onshape.com/help/Content/PartStudio/plane.htm) guide shows all the different types of planes and how they are made. 
+
+use the plane tool and select the point normal plane, and after that select any point of the line and the line itself. you should see a plane being formed perpendicular to the line at the point you've selected
+
+like this:
+<img width="1499" height="920" alt="image" src="https://github.com/user-attachments/assets/e4ff8045-a1e9-4f48-b277-7475a201f7c3" />
