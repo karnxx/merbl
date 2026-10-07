@@ -134,5 +134,10 @@ this is what i got:
 
 <img width="668" height="576" alt="image" src="https://github.com/user-attachments/assets/08383d70-7e0b-4711-8062-cc823cb7bfe2" />
 
+and thats how to make paths! you just have to keep making new planes and sketch and planes and sketch and yeah. 
+
+heres a vid based tutorial:
+
+
 
 
