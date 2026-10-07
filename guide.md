@@ -56,6 +56,10 @@ first make a sketch:
 
 <img width="336" height="143" alt="image" src="https://github.com/user-attachments/assets/4ede3e70-b0ef-49aa-a997-af48ff2b1930" />
 
+> #### Sketches on Onshape:
+> a detailed guide about sketches are [here](https://cad.onshape.com/help/Content/Sketch/sketch_tools.htm?TocPath=Part%20Studios%7CSketch%20Tools%7C_____0)
+
+
 and place it on a plane:
 
 <img width="1233" height="909" alt="image" src="https://github.com/user-attachments/assets/87157cb1-c3aa-46b6-949f-f946348fa509" />
@@ -63,6 +67,9 @@ and place it on a plane:
 and then draw any line shape like this:
 
 <img width="1489" height="915" alt="image" src="https://github.com/user-attachments/assets/5ecbd4c4-1acd-45d7-a57a-eedc924309bf" />
+
+> #### Shapes on Onshape:
+> there are many types of shapes and line which are necessary for this tutorial, more info [here](https://cad.onshape.com/help/Content/Sketch/sketch_tools.htm?TocPath=Part%20Studios%7CSketch%20Tools%7C_____0)
 
 after that, to edit the length of the line, you can press 'd' or this icon:
 
@@ -80,10 +87,12 @@ https://github.com/user-attachments/assets/daba3795-5428-42c3-92bc-7ec49f04fc53
 
 then for the sweep profile, we have to first make a plane:
 
-> ### MAKING PLANES:
+> #### Making Planes on Onshape:
 > planes are a very important part of this tutorial, you have to use them as where the sketch is actually drawn. there are multiple ways of making a plane, [this](https://cad.onshape.com/help/Content/PartStudio/plane.htm) guide shows all the different types of planes and how they are made. 
 
 use the plane tool and select the point normal plane, and after that select any point of the line and the line itself. you should see a plane being formed perpendicular to the line at the point you've selected
 
 like this:
 <img width="1499" height="920" alt="image" src="https://github.com/user-attachments/assets/e4ff8045-a1e9-4f48-b277-7475a201f7c3" />
+
+and make another sketch on that. then were gnna make the profile that will sweep and actually make the tracks, here it means the track shape. so this is a very important step. anyways make the sketch and 
