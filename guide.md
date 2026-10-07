@@ -104,4 +104,9 @@ so we are using marbles that are 16mm in diameter. so my tracks have 18mm inner 
 
 <img width="469" height="375" alt="image" src="https://github.com/user-attachments/assets/a91ac7c2-0849-44c0-9bd0-170112f76b6b" />
 
+then after that lets make the track by sweeping. search up sweep in the top right search bar. select the sketch profile we just made and then the line we drew.
+
+<img width="833" height="742" alt="image" src="https://github.com/user-attachments/assets/6097b036-72f8-45be-a486-cbda21d0b410" />
+
+<img width="1048" height="843" alt="image" src="https://github.com/user-attachments/assets/7e45966a-d3f5-46b6-a0f1-391ded866539" />
 
