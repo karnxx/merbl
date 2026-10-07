@@ -47,6 +47,7 @@ this should be your screen:
 
 
 # I.TRACKS
+
 tracks are made by first, having a path and then having a profile perpendicular to the start of the path.
 
 first make a sketch:
@@ -71,3 +72,8 @@ all together:
 
 https://github.com/user-attachments/assets/daba3795-5428-42c3-92bc-7ec49f04fc53
 
+then for the sweep profile, we have to first make a plane:
+
+> ### MAKING PLANES:
+
+> planes are a very important part of this tutorial, you have to use them as where the sketch is actually drawn. there are multiple ways of making a plane, [this](https://cad.onshape.com/help/Content/PartStudio/plane.htm) guide shows all the different types of planes and how they are made. 
