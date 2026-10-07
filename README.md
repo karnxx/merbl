@@ -30,6 +30,7 @@ You'll start by thinking how you want the marble to move and then actually turn 
 - **Sweep** : this actually makes the track, by extending a 2d sketch shape along a 3d path
 - **Transform** : moves, rotates and scales the parts
 - **Extrude** : just extends the specific 2d shape in a straight perpendicular line
+- **Revolve** : sketch profile around an axis at a particular angle
 
 alralr so lets actually get started
 
@@ -52,5 +53,21 @@ first make a sketch:
 
 <img width="336" height="143" alt="image" src="https://github.com/user-attachments/assets/4ede3e70-b0ef-49aa-a997-af48ff2b1930" />
 
-and place it on a plane
+and place it on a plane:
+
+<img width="1233" height="909" alt="image" src="https://github.com/user-attachments/assets/87157cb1-c3aa-46b6-949f-f946348fa509" />
+
+and then draw any line shape like this:
+
+<img width="1489" height="915" alt="image" src="https://github.com/user-attachments/assets/5ecbd4c4-1acd-45d7-a57a-eedc924309bf" />
+
+after that, to edit the length of the line, you can press 'd' or this icon:
+
+<img width="102" height="89" alt="image" src="https://github.com/user-attachments/assets/693888ab-4008-4ace-8270-c66b85ff54e7" />
+
+and select the line, and click again. you can double click that constraint value to edit it.
+
+all together:
+
+https://github.com/user-attachments/assets/daba3795-5428-42c3-92bc-7ec49f04fc53
 
