@@ -47,15 +47,16 @@ this should be your screen:
 
 you have probably selected which type of movement you have, a list of those [here](https://cad.onshape.com/help/Content/View/view_navigation_and_the_view_cube.htm)
 
-# I.BASE
-the base is pretty simple, just sketch any type of base under 150x150x4 mm. for mine, i used a 180x180x3 rectangle. pick a plane, and sketch on it, and just make a rectangle, circle or any shape you want.
-
 > #### Sketching on Onshape
 > sketching in onshape is very basic, just click on the sketch tool on top-left corner and select a plane:
 > 
 > <img width="369" height="240" alt="image" src="https://github.com/user-attachments/assets/ef1a328a-7a5e-4e4d-a794-a8a501cd15d6" />
 >
 > <img width="1484" height="918" alt="image" src="https://github.com/user-attachments/assets/727b49ae-87f9-4713-a1ec-ed3a36605744" />
+
+
+# I.BASE
+the base is pretty simple, just sketch any type of base under 150x150x4 mm. for mine, i used a 180x180x3 rectangle. pick a plane, and sketch on it, and just make a rectangle, circle or any shape you want.
 
 like these for example:
 
