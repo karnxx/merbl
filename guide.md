@@ -47,8 +47,20 @@ this should be your screen:
 
 you have probably selected which type of movement you have, a list of those [here](https://cad.onshape.com/help/Content/View/view_navigation_and_the_view_cube.htm)
 
+# I.BASE
+the base is pretty simple, just sketch any type of base under 150x150x4 mm. for mine, i used a 180x180x3 rectangle. pick a plane, and sketch on it, and just make a rectangle, circle or any shape you want.
 
-# I.TRACKS
+like these for example:
+
+<img width="783" height="477" alt="image" src="https://github.com/user-attachments/assets/924b9061-a260-4e15-ab95-9caa16d4600d" />
+
+<img width="578" height="361" alt="image" src="https://github.com/user-attachments/assets/d98f6611-b5f1-49f3-a2a4-68a83244441e" />
+
+<img width="668" height="440" alt="image" src="https://github.com/user-attachments/assets/0227d86a-b239-44c2-8366-5474cded8545" />
+
+im just tryna say you can make it whatever you want.
+
+# II.TRACKS
 
 tracks are made by first, having a path and then having a profile perpendicular to the start of the path.
 
