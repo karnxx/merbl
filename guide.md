@@ -95,4 +95,13 @@ use the plane tool and select the point normal plane, and after that select any 
 like this:
 <img width="1499" height="920" alt="image" src="https://github.com/user-attachments/assets/e4ff8045-a1e9-4f48-b277-7475a201f7c3" />
 
-and make another sketch on that. then were gnna make the profile that will sweep and actually make the tracks, here it means the track shape. so this is a very important step. anyways make the sketch and 
+and make another sketch on that. then were gnna make the profile that will sweep and actually make the tracks, here it means the track shape. so this is a very important step. anyways make the sketch.
+so we are using marbles that are 16mm in diameter. so my tracks have 18mm inner diameter to have some tolerance and slack. my tracks outer diameter is 23mm, so with that the track is 2.5mm thick. heres my sketch of a track:
+
+<img width="780" height="580" alt="image" src="https://github.com/user-attachments/assets/4399d854-a39f-4320-b818-03300145f793" />
+
+> you can cut the lines using the trim tool (m)
+
+<img width="469" height="375" alt="image" src="https://github.com/user-attachments/assets/a91ac7c2-0849-44c0-9bd0-170112f76b6b" />
+
+
