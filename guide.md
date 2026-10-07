@@ -106,7 +106,33 @@ so we are using marbles that are 16mm in diameter. so my tracks have 18mm inner 
 
 then after that lets make the track by sweeping. search up sweep in the top right search bar. select the sketch profile we just made and then the line we drew.
 
-<img width="833" height="742" alt="image" src="https://github.com/user-attachments/assets/6097b036-72f8-45be-a486-cbda21d0b410" />
+<img width="621" height="322" alt="image" src="https://github.com/user-attachments/assets/77fe8f16-636b-4f57-8fc5-415cbed0d898" />
 
-<img width="1048" height="843" alt="image" src="https://github.com/user-attachments/assets/7e45966a-d3f5-46b6-a0f1-391ded866539" />
+<img width="859" height="588" alt="image" src="https://github.com/user-attachments/assets/72227708-9469-497f-958c-826f58127694" />
+
+and thats how to make a basic track! the next thing you learn is how to make advanced path sketches:
+
+first lets delete the part we just made, at the bottom left there should be a parts window. just right click on that part and click on delete.
+then unhide your old sketches (the path and the profile) from the features tab.
+then make a new plane, and select line angle this time. and then apply appropriate angle you want. this is the tilt of our track:
+
+<img width="598" height="345" alt="image" src="https://github.com/user-attachments/assets/71f4d0ff-4627-4e02-968d-031870117e68" />
+
+after that, make a sketch on it. from the end point, you can start drawing your tilted track. use tools like splines, circles, tangent lines, etc. (you can refer to the onshape help guide)
+
+this is what i did:
+
+<img width="442" height="497" alt="image" src="https://github.com/user-attachments/assets/b27937eb-66d7-44e6-9b95-e27803f2a5aa" />
+
+then make a composite curve out of it. search up 'Composite Curve' and select all the lines in the path:
+
+<img width="590" height="503" alt="image" src="https://github.com/user-attachments/assets/099f09a6-4413-42ee-992e-5b492e494184" />
+
+again, try sweeping. use the old profile you made and select the path we just made: 
+
+this is what i got:
+
+<img width="668" height="576" alt="image" src="https://github.com/user-attachments/assets/08383d70-7e0b-4711-8062-cc823cb7bfe2" />
+
+
 
