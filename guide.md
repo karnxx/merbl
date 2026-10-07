@@ -138,6 +138,7 @@ and thats how to make paths! you just have to keep making new planes and sketch 
 
 heres a vid based tutorial:
 
+https://github.com/user-attachments/assets/f152d832-c026-4709-a9e1-cb710bd09956
 
 
 
