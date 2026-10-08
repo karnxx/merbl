@@ -183,7 +183,7 @@ then select aligned rectangle and draw a rectangle from one end of the line, aft
 
 <img width="340" height="457" alt="image" src="https://github.com/user-attachments/assets/b59e068c-cc46-413f-9367-57a61e22a69b" />
 
-after that, draw a line from the opposite end that we just coincidented. this line should be 17mm long and on the earlier line we make:
+after that, draw a line from the opposite end that we just coincidented. this line should be 20mm long and on the earlier line we make:
 
 <img width="693" height="535" alt="image" src="https://github.com/user-attachments/assets/53b796b5-d3be-4c25-b138-de0c954f88c1" />
 
