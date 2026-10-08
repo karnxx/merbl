@@ -132,9 +132,11 @@ then after that lets make the track by sweeping. search up sweep in the top righ
 
 and thats how to make a basic track! the next thing you learn is how to make advanced path sketches:
 
-first lets delete the part we just made, at the bottom left there should be a parts window. just right click on that part and click on delete.
-then unhide your old sketches (the path and the profile) from the features tab.
-then make a new plane, and select line angle this time. and then apply appropriate angle you want. this is the tilt of our track:
+delete the part we just made. at the bottom left there should be a parts window, where you can see all the parts in the design. just right click on that part and click on delete.
+then unhide your old sketches (the path and the profile) from the features tab. 
+now we need to make a new plane. this time select line angle. then select the line, and specify the angle you want the plane to be at, this will make it more steeper/flatter. 
+
+this is what I did:
 
 <img width="598" height="345" alt="image" src="https://github.com/user-attachments/assets/71f4d0ff-4627-4e02-968d-031870117e68" />
 
