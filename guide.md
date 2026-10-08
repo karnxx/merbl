@@ -15,9 +15,8 @@ You will learn how to CAD a marble race from scratch on Onshape.
 ## Parts- 
 i. Base \
 ii. Tracks \
-iii. Miscs \
+iii. Custom Tracks \
 iv. Finishing Touches \
-v. More! 
 
 #### Before we start
 The flow of a marble race is basically: \
@@ -162,5 +161,48 @@ heres a vid based tutorial:
 
 https://github.com/user-attachments/assets/f152d832-c026-4709-a9e1-cb710bd09956
 
+# III. CUSTOM TRACKS
+so we've learnt how to make normal tracks, but we can also add some different tracks. for example we can make a plinko track, or many others like these::
+
+<img width="163" height="225" alt="image" src="https://github.com/user-attachments/assets/99bd1494-3b88-46dc-912f-49b84278d4f1" />
+
+<img width="239" height="374" alt="image" src="https://github.com/user-attachments/assets/cc4cd793-5386-4514-ba8f-7f8a9ad2363e" />
+
+<img width="441" height="231" alt="image" src="https://github.com/user-attachments/assets/30746cd2-4953-45b8-b7b6-a3471f353649" />
+
+<img width="352" height="280" alt="image" src="https://github.com/user-attachments/assets/bc1be77b-cb6e-4610-8356-c35bbf144fcb" />
+
+heres how to make some:
+
+### Plinko Track
+first create a sketch on any plane. then draw a straight line, make it 100mm long. 
+
+<img width="816" height="132" alt="image" src="https://github.com/user-attachments/assets/2ed655d0-a016-4161-8fff-8f405dd9fc7b" />
+
+then select aligned rectangle and draw a rectangle from one end of the line, after you draw it make it 3x3mm and the opposite point, make it coincident with the line like this:
+
+<img width="340" height="457" alt="image" src="https://github.com/user-attachments/assets/b59e068c-cc46-413f-9367-57a61e22a69b" />
+
+after that, draw a line from the opposite end that we just coincidented. this line should be 17mm long and on the earlier line we make:
+
+<img width="693" height="535" alt="image" src="https://github.com/user-attachments/assets/53b796b5-d3be-4c25-b138-de0c954f88c1" />
+
+repeat making the rectangle. this determines the width of the plinko. im just going to do this 1 more time.
+
+<img width="679" height="255" alt="image" src="https://github.com/user-attachments/assets/0555daa2-3b47-4398-9b73-c94d5956e911" />
+
+you can just trim whatevers left of the line.
+
+okay now for making the plinko edges, first on either ends of the line, extend the square a bit, by 4mm. like this:
+
+<img width="956" height="309" alt="image" src="https://github.com/user-attachments/assets/20202d64-c99c-46d4-a383-1c850eca49a0" />
+
+now were gonna make more pegs above and below that. first, draw a line from the center of the middle peg to the top or bottom side that is 20mm long and is perpendicular to our first line:
+
+<img width="1009" height="630" alt="image" src="https://github.com/user-attachments/assets/7e43a398-d252-4905-80bc-0324d4e89006" />
+
+after that, draw another line there like this which is equal to the distance between the leftmost point and rightmost point. you can use the vertical tool for this, first select the new lines point and then the point just below that, which we want to make equal:
+
+<img width="804" height="428" alt="image" src="https://github.com/user-attachments/assets/708fa3f8-829e-4d40-a6ca-dfbcb881791c" />
 
 
