@@ -235,8 +235,17 @@ okay so now, we have to make the wall thickness and all, draw a center rectangle
 
 you can use trim to neaten it up a bit if u want, make rects for the enterance and the exit too. we have to extrude now. extrude every profile by 3mm, and the walls by 16mm totally:
 
+<img width="906" height="717" alt="image" src="https://github.com/user-attachments/assets/6d949d5a-de0a-467c-8b97-bc61f136e080" />
+
+finally, just chamfer all the corners, select the chamfer tool and select these corners:
+chamfer them such that the marble wont be able to get stuck in a corner
+
+<img width="462" height="499" alt="image" src="https://github.com/user-attachments/assets/ba01df9e-ec8c-465f-a0c2-bc81d8138d56" />
+
+and thats the plinko track! for the entry of the marble you can either use that entrance or just make it so the end of the track is above the plinko so that the ball just falls in, same with the exit.
 
 
+### Staircase Track
 
 
 
