@@ -1,4 +1,4 @@
-# merbl
+<img width="764" height="619" alt="image" src="https://github.com/user-attachments/assets/f4aef33d-3ba6-4741-9b5a-56969e1a701f" /># merbl
 
 <img width="684" height="744" alt="image" src="https://github.com/user-attachments/assets/d3239a8e-6b6e-4a39-b35c-60f66c4f04ad" />
 
@@ -250,9 +250,12 @@ and thats the plinko track! for the entry of the marble you can either use that 
 first make a sketch on a plane. then im using this for the steps:
 use tools like the equal tool (makes any 2 lines equal), dimension tool, and also copy and paste, which is very easy to use. just drag on what u want to copy and paste, make sure its all selected and then ctrl + c, ctrl + v. 
 
-<img width="898" height="558" alt="image" src="https://github.com/user-attachments/assets/a33c053e-542b-4edc-91d4-7570fb04ce24" />
+<img width="640" height="558" alt="image" src="https://github.com/user-attachments/assets/2f6f2986-c3ad-4d70-a785-cc0a35bdd500" />
 
+then draw a diagonal line. this will make the steps actually thick and strong:
+make sure its paralell to the steps we have like this:
 
+<img width="764" height="619" alt="image" src="https://github.com/user-attachments/assets/1b983f4f-40ab-4dcf-9311-a6873a7d9dda" />
 
 
 
