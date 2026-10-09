@@ -205,4 +205,39 @@ after that, draw another line there like this which is equal to the distance bet
 
 <img width="804" height="428" alt="image" src="https://github.com/user-attachments/assets/708fa3f8-829e-4d40-a6ca-dfbcb881791c" />
 
+take 16.5mm from both sides and draw an aligned rectange towards the center, the same way we did before:
+
+<img width="864" height="539" alt="image" src="https://github.com/user-attachments/assets/17aa0f7c-de45-4c22-95f2-ac16a67b0eac" />
+
+yeah thats the sketch, okay also if u wanna extend above and below first select the mirror tool. then select either of the lines, then select the aligned rectangles and stuff of the other line:
+
+<img width="808" height="653" alt="image" src="https://github.com/user-attachments/assets/dfff945a-b990-46aa-9e25-5576ffcc9535" />
+
+keep doing that to determine how big you want your track to be. this is my track:
+
+<img width="452" height="572" alt="image" src="https://github.com/user-attachments/assets/4186e0be-4f11-4ecf-9746-06d71254c3a8" />
+
+after that, draw a rectangle:
+
+<img width="398" height="579" alt="image" src="https://github.com/user-attachments/assets/85594914-6d89-4156-bea1-0057033520fc" />
+
+extend the rectangles from the top and bottom so we have space for the marble:
+
+<img width="430" height="725" alt="image" src="https://github.com/user-attachments/assets/5fee903d-d85f-4961-9c9b-1e2b8542c089" />
+
+now we have to make an enterance. just make a line that is 17mm long on the top and bottom side, this determines where exactly your marble enters:
+
+<img width="446" height="797" alt="image" src="https://github.com/user-attachments/assets/947c3c5a-140d-4533-a089-8eb0f66b6101" />
+
+okay so now, we have to make the wall thickness and all, draw a center rectangle, and use the dimension tool to set the distance between the inner rects edges and the outer rects edges 3mm. 
+
+<img width="432" height="672" alt="image" src="https://github.com/user-attachments/assets/e1195372-c52c-464d-ac34-0dede082a943" />
+
+you can use trim to neaten it up a bit if u want, make rects for the enterance and the exit too. we have to extrude now. extrude every profile by 3mm, and the walls by 16mm totally:
+
+
+
+
+
+
 
