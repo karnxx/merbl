@@ -247,6 +247,12 @@ and thats the plinko track! for the entry of the marble you can either use that 
 
 ### Staircase Track
 
+first make a sketch on a plane. then im using this for the steps:
+use tools like the equal tool (makes any 2 lines equal), dimension tool, and also copy and paste, which is very easy to use. just drag on what u want to copy and paste, make sure its all selected and then ctrl + c, ctrl + v. 
+
+<img width="898" height="558" alt="image" src="https://github.com/user-attachments/assets/a33c053e-542b-4edc-91d4-7570fb04ce24" />
+
+
 
 
 
