@@ -251,10 +251,22 @@ use tools like the equal tool (makes any 2 lines equal), dimension tool, and als
 
 <img width="640" height="558" alt="image" src="https://github.com/user-attachments/assets/2f6f2986-c3ad-4d70-a785-cc0a35bdd500" />
 
-then draw a diagonal line. this will make the steps actually thick and strong:
-make sure its paralell to the steps we have like this:
+then draw a line from the start point of the steps to the end point. this will make the steps actually thick and strong. this is what ive done:
 
 <img width="764" height="619" alt="image" src="https://github.com/user-attachments/assets/1b983f4f-40ab-4dcf-9311-a6873a7d9dda" />
 
+then extrude these parts by 18mm:
 
+<img width="686" height="556" alt="image" src="https://github.com/user-attachments/assets/b9d08f22-53ae-4b97-b4bc-b28170ecd638" />
+
+after that, extrude all the parts, in the opposite direction by 3mm:
+
+> to switch direction click this:
+> <img width="134" height="90" alt="image" src="https://github.com/user-attachments/assets/ae43a4a4-eedf-4052-b2a1-c1a536fb4843" />
+
+<img width="1167" height="816" alt="image" src="https://github.com/user-attachments/assets/74adb9c3-5922-4805-9791-a0305153f95d" />
+
+then extrude those same parts, but this time tick the starting offset. make the offset the thickness of the track (18mm), and depth 3mm:
+
+<img width="943" height="730" alt="image" src="https://github.com/user-attachments/assets/59595237-f50d-41b8-8d4d-71f2f454cfe6" />
 
