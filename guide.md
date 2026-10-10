@@ -15,7 +15,6 @@ You will learn how to CAD a marble race from scratch on Onshape.
 i. Base \
 ii. Tracks \
 iii. Custom Tracks \
-iv. Finishing Touches \
 
 #### Before we start
 The flow of a marble race is basically: \
@@ -269,4 +268,90 @@ after that, extrude all the parts, in the opposite direction by 3mm:
 then extrude those same parts, but this time tick the starting offset. make the offset the thickness of the track (18mm), and depth 3mm:
 
 <img width="943" height="730" alt="image" src="https://github.com/user-attachments/assets/59595237-f50d-41b8-8d4d-71f2f454cfe6" />
+
+finally this is what you should get!
+
+<img width="593" height="473" alt="image" src="https://github.com/user-attachments/assets/abeb40d8-1132-4ef9-b52f-17dd25aaf860" />
+
+you can edit the entrance and exit to your will/use. 
+
+### Funnel
+making a funnel is pretty easy, we are going to use revolve, fillet and  with the sketch. first start by making a sketch and and make a line. the length of the line doesnt really matter, we will be using this as an axis for revolve
+
+after that, make another line that is 8.5mm far from the first line. also make sure that this like is parallel to the first line. the length of this line actually matters, as this is the drop of our marble. so you have to minimally make it 20mm. like this:
+
+<img width="392" height="483" alt="image" src="https://github.com/user-attachments/assets/10849778-ecb1-4ee0-9bad-91e47f67af66" />
+
+then make another line that is angled from the top. make this line at least 50mm long, this determines how many times the ball will revolute around the hole before falling into it. make it angled anywhere from 90 to 115 degrees, but you can do it max till 180. i recommend 95 to 115 degrees:
+
+<img width="792" height="645" alt="image" src="https://github.com/user-attachments/assets/1418596d-2e3c-4401-9992-a3980f3d26c4" />
+
+after that, fillet the edges (shift + f) or this:
+
+<img width="196" height="101" alt="image" src="https://github.com/user-attachments/assets/dc79226b-46dd-401e-9f15-5c8a8d93d59e" />
+
+this affects when the ball really falls in the hole. so im using 5mm here, it depends on your angle too:
+
+<img width="747" height="631" alt="image" src="https://github.com/user-attachments/assets/11dc1695-c9f1-4f59-b350-1fc2f4632fa5" />
+
+after that, offset it. what offset does is copy the same sketch/curve at a distance.
+click o or this button to offset
+
+<img width="167" height="66" alt="image" src="https://github.com/user-attachments/assets/9623a050-6410-4935-bd8f-9ce07e96665d" />
+
+so select offset and then the lines we made. this determines the thickness of the wall. so im offsetting it by 3mm. make sure it gets offset on the side opposite to the first line:
+
+<img width="869" height="625" alt="image" src="https://github.com/user-attachments/assets/66f0925a-480f-47db-b99a-dd20e706146f" />
+
+you can fillet it again to make it look better:
+
+<img width="552" height="534" alt="image" src="https://github.com/user-attachments/assets/a054aeb2-674f-4be6-be38-30263e073b01" />
+
+after that, draw a line at the bottom that connects the offset line and the base line:
+
+<img width="364" height="414" alt="image" src="https://github.com/user-attachments/assets/8c25a4eb-ebe7-4245-b079-5f4a6afd4c3f" />
+
+then we need to edit the edge of the funnel. this makes sure the marble doesnt just fall off. first go here and make a corner-point rectangle:
+
+<img width="437" height="566" alt="image" src="https://github.com/user-attachments/assets/db6da3a7-eebf-495a-9eae-48e328b2414a" />
+
+then extend the other line so it intersects this rectangle:
+
+<img width="360" height="525" alt="image" src="https://github.com/user-attachments/assets/7b17bf3b-224b-497e-a55f-e11f9588f3e0" />
+
+after that, specify the rectangles dimension. using the dimension tool, make the thickness of the rectangle atleast 3mm and the height by 12:
+
+<img width="387" height="407" alt="image" src="https://github.com/user-attachments/assets/8ddb5d70-3722-4f85-861f-b991d16add59" />
+
+then extend the first line like this:
+
+<img width="478" height="677" alt="image" src="https://github.com/user-attachments/assets/8f79199b-7458-4f66-b8f7-1ac00abd7caa" />
+
+and cut off the other part of the rect:
+
+<img width="393" height="561" alt="image" src="https://github.com/user-attachments/assets/64579f63-bf25-4681-92f6-41f2d979a463" />
+
+after that, the sketch is finished. you can tidy it up a bit by trim tool. then select the revolve tool, select the profiles we made and then the first ever line we made as axis. like this:
+
+<img width="738" height="634" alt="image" src="https://github.com/user-attachments/assets/3c45cc02-e3e3-4904-bc4f-8dddac0dcf1c" />
+
+then, you can fillet these edges to make it look better. im filleting it by 13.5mm:
+
+<img width="586" height="360" alt="image" src="https://github.com/user-attachments/assets/098bee83-d307-43d1-876a-a672fcdacdde" />
+
+fillet this bottom thing too, im filleting it by 1mm:
+
+<img width="602" height="373" alt="image" src="https://github.com/user-attachments/assets/512f06fa-9646-43fd-ac51-3b71a1eafc24" />
+
+and were done! this is what you should get:
+
+<img width="540" height="330" alt="image" src="https://github.com/user-attachments/assets/01b47066-dbde-4ae9-aa9e-c3528f8e41db" />
+
+## Finishing
+so that is how you make basic parts of a marble track. its up to you how you want to integrate these. you can make ideas of your own too, heres some i thought of-
+- make it modular!
+- add a motor and an archimedes screw to bring the motor back to the beginning!
+- make your own custom track!
+etcetc. its up to you and your creativity. 
+
 
