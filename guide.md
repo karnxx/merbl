@@ -1,5 +1,4 @@
-<img width="764" height="619" alt="image" src="https://github.com/user-attachments/assets/f4aef33d-3ba6-4741-9b5a-56969e1a701f" /># merbl
-
+# merbl
 <img width="684" height="744" alt="image" src="https://github.com/user-attachments/assets/d3239a8e-6b6e-4a39-b35c-60f66c4f04ad" />
 
 
