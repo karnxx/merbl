@@ -14,7 +14,7 @@ You will learn how to CAD a marble race from scratch on Onshape.
 ## Parts- 
 i. Base \
 ii. Tracks \
-iii. Custom Tracks \
+iii. Custom Tracks 
 
 #### Before we start
 The flow of a marble race is basically: \
